@@ -1,1 +1,3 @@
 # CodeFunDo
+
+Earthquake Predictor
